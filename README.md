@@ -1,1 +1,3 @@
 # Clinica
+Buenas tardes Coach 
+El propósito de mi proyecto se trata de registro de citas médicas a través de una plataforma desarrollada utilizando React y Firebase. El sistema permite a los usuarios iniciar sesión y acceder a un formulario de citas donde pueden programar y registrar la fecha y hora de sus consultas médicas. Es importante destacar que, aunque la información de inicio de sesión se guarda en Firebase para garantizar la seguridad y la autenticación de los usuarios, los detalles de las citas médicas no se almacenan realmente en la base de datos, ya que esta funcionalidad es meramente simulada en el entorno de la aplicación.
