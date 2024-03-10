@@ -1,0 +1,81 @@
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  background-image: url(https://img.freepik.com/foto-gratis/medicina-sobre-fondo-azul-endecha-plana_23-2149341573.jpg?size=626&ext=jpg&ga=GA1.1.117944100.1709424000&semt=ais);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.box{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 90vh;
+}
+
+.container{
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  padding: 0 15px 0 15px;
+}
+
+h1{
+  color: #fff;
+  font-size: 25px;
+  display: flex;
+  justify-content: center;
+}
+
+label{
+  color: #fff;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+ 
+}
+
+.input-control{
+  display: flex;
+  flex-direction: column;
+}
+
+
+.input-group .form-control{
+  height: 45px;
+  width: 87%;
+  border: none;
+  outline: none;
+  color: #fff;
+  padding: 0 0 0 42px;
+  background: rgba(255,255,255,0.1);
+}
+
+i{
+  position:relative;
+  top: 20px;
+  left: 17px;
+  color: #fff;
+  display: flex;
+  flex-direction: initial;
+}
+
+button{
+width: 50%;
+display: flex;
+flex-direction: initial;
+justify-content: center;
+
+}
+
+.link{
+color: white;
+text-decoration: none;
+}
+
+
+
